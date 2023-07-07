@@ -1,5 +1,7 @@
 # TaskLeap
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/254ab31d-ef4f-4aa7-9f44-d5645a30dbb8/deploy-status)](https://app.netlify.com/sites/taskleap/deploys)
+
 **TaskLeap** - is based on task-list(todo-list).
 
 ## Techologies used :
