@@ -1,6 +1,6 @@
 # TaskLeap
 
-**TaskLeap** - is based on task-list(todo-li--st).
+**TaskLeap** - is based on task-list(todo-list).
 
 ## Techologies used :
 
