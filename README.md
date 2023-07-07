@@ -29,7 +29,11 @@ $./todo-list> npm run dev
 
 3. Follow local link in console pop-up
 
-![img](119c9d5c-ae76-42f1-9496-7b3513d6f8cb.png)
+```
+-> Local: http://localhost:adress/
+-> Network: use --host to expose
+-> press h to show help
+```
 
 You are ready to go.
 
