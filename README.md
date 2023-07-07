@@ -25,7 +25,7 @@ $./todo-list> npm run dev
 
 3. Follow local link in console pop-up
 
-![img](.\assets\119c9d5c-ae76-42f1-9496-7b3513d6f8cb.png)
+![img](119c9d5c-ae76-42f1-9496-7b3513d6f8cb.png)
 
 You are ready to go.
 
